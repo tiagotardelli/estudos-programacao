@@ -1,6 +1,4 @@
-
-
-# Comandos
+## Principais Comandos
 
 #### Atalhos
 
