@@ -1,4 +1,4 @@
-## HTML Incorporando imagens
+## Incorporando imagens
 
 Podemos inserir em nossa páginas imagens, para usarmos este elemento basta usar a tag <img> sem uma tag de fechamento, pois se trata de um elemento vazio.
 

@@ -1,4 +1,4 @@
-## HTML Hyperlinks
+## Hyperlinks
 
 O hyperlink, ou apenas link, serve para que possamos ser direcionados para outra página do mesmo site ou para outro site ou até mesmo para fazer o download de um arquivo. Para isso usamos o elemento <a>
 

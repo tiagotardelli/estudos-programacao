@@ -1,4 +1,4 @@
-## Listas no HTML
+## Listas
 
 Dentro do HTML podemos trabalhar com listas ordenadas e listas não ordenadas, onde essas são contituídas de itens de lista, porém temos um terceiro tipo que são as listas de definições que não são constituidas de itens de lista.
 
