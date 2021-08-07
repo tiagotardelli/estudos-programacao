@@ -64,23 +64,25 @@ Representa o conteúdo de um documento HMTL. Pode existir somente um elemento <b
 ##### Exemplo de HTML
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-</html>
-    <head>
-		<meta charset="utf-8">
-		<title>My fancy web page</title>
+<!DOCTYPE html> <!-- Indicando a versão do meu HTML -->
+<html lang="en"> <!-- Dentro da tag HTML é que teremos o nosso site 
+					  O atributo lang é importante para falar o idioma da página -->
+    <head> <!-- Todas as configurações da página, informações para o browser -->
+		<meta charset="UTF-8"> <!-- Informa qual é a configuração do conteúdo do site 
+									UTF-8 suporta uma grande quantidade de caracteres -->
+		<title>My fancy web page</title> <!-- Aparece no título do nosso site -->
 	</head>
-	<body>
+	<body> <!-- É onde colocamos o conteúdo do site -->
         <h1>Hello there.</h1>
 	</body>
 </html>
 ```
 
-### Leia mais
+- tag <html> é a raiz / root
+
+### Leitura complementar
 
 - <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Introdução ao HTML no MDN</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">O que á no head ?</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/meta">O elemento meta no MDN</a>
-
 
