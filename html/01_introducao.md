@@ -1,8 +1,8 @@
-## HTML (Linguagem de Marcação de Hipertexto) 
+## HTML (Hypertext Markup Language) 
 
 #### O que é ?
 
-O HTML fornece uma forma estruturada de criar páginas web. Com as tags disponibilizadas pelo HTML podemos controlar o que o browser (navegador) interpreta para exibir para o usuário.
+O HTML (Linguagem de Marcação de Hipertexto) fornece uma forma estruturada de criar páginas web. Com as tags disponibilizadas pelo HTML podemos controlar o que o browser (navegador) interpreta para exibir para o usuário.
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" >Referência de Elementos/Tags HTML</a>
 
@@ -11,6 +11,8 @@ O HTML fornece uma forma estruturada de criar páginas web. Com as tags disponib
 As tags são utilizadas dentro dos sinais de menor que (<) e maior que (>), porém a tag de fechamento leva o caractere "/" (o browser reconhece como fechamento). Em sua grande maioria as tags de abertura e fechamento são correspondentes. 
 
 ```html
+<nome_da_tag>Conteúdo da tag</nome_da_tag>
+
 <h1>Meu nome é ...</h1>
 ```
 
