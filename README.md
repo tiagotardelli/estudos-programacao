@@ -28,5 +28,5 @@ ____________________________
 ### Visual Studio Code (VS Code)<img align="center" alt="Tardelli-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 - [Introdução](visual_studio_code/01_introducao.md)
-- [IComandos(visual_studio_code/02_comandos.md)
+- [Comandos](visual_studio_code/02_comandos.md)
 - [Extensões](visual_studio_code/03_extensoes.md)
