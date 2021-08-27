@@ -113,5 +113,11 @@ cal
 date
 ```
 
+- Verificar o que determinado comando faz
 
+  ```shell	
+  whatis <comando>
+  
+  whatis cat ->> cat - concatenate files and print on the standard output
+  ```
 
